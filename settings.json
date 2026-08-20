@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Bebbiwebbi.aternos.me",
+    "ip": "sailfish.aternos.host:46199",
     "port": 46199,
     "version": "26.2",
     "try-creative": false
